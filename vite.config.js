@@ -10,4 +10,5 @@ export default defineConfig({
       config: tailwindConfig, 
     }),
   ],
+  base:'/conferencia-jovem-2025/'
 })
