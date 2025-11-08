@@ -45,8 +45,8 @@ function App() {
           src={coracao}
           alt="Coração"
           style={{
-            width: '1000px',
-            height: '810px',
+            width: '600px',
+            height: '486px',
             animation: 'heartbeat 2.5s ease-in-out infinite',
           }}
           className="absolute -translate-y-32 transform-gpu"
